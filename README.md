@@ -26,3 +26,4 @@ concat({
   fs.writeFileSync('./123.png', canvas.toBuffer());
 });
 ```
+use concat.v instead of concat to concatenate vertically.
